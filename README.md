@@ -40,7 +40,7 @@ Essas são as tecnologias que foram utilizadas.
 ## :computer: Web Screenshots
 
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="https://github.com/pablohdev/github-explorer/blob/main/.github/images/screenshot.jpg" width="400px">
+  <img src="https://github.com/pablohdev/github-explorer/blob/main/.github/images/screenshot.gif" width="400px">
 
 
 ## :construction_worker: Como rodar o projeto
